@@ -3,7 +3,7 @@ public class PastelRenderer implements PlannerRenderer {
     @Override
     public void renderTitle(String title) {
         System.out.println(" ");
-        System.out.println("       🌸 " + title + " 🌸");
+        System.out.println(" " + title + " ");
         System.out.println(" ");
     }
 
